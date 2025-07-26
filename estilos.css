@@ -6,3 +6,6 @@ body {
 }
 a { color: yellow;
 }
+.contenedor {
+    width: 80%;
+}
